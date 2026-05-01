@@ -35,16 +35,10 @@ gapminder_economy.csv	Country, Year, GDP per capita
 Note: Both datasets contain one row per (country, year) pair. They share the country and year columns but carry different variables. You must join them on country to get a combined view for analysis.
 
 Task Overview
-Load both CSV files.
-
-Merge the datasets using the common key (country and optionally year).
-
-Explore relationships between:
-
-GDP per capita and life expectancy
-
-Population trends over time
-
-Continental differences in health and wealth
-
-Draw conclusions and visualize key insights.
+- Load both CSV files.
+- Merge the datasets using the common key (country and optionally year).
+- Explore relationships between:
+- GDP per capita and life expectancy
+- Population trends over time
+- Continental differences in health and wealth
+- Draw conclusions and visualize key insights.
